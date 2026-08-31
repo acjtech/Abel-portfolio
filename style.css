@@ -31,7 +31,8 @@ nav a:hover { color: var(--accent); }
   min-height: 680px; padding: 100px 6%; display: grid; grid-template-columns: 1.35fr .65fr;
   gap: 70px; align-items: center; max-width: 1400px; margin: auto;
 }
-.eyebrow { font-size: 11px; font-weight: 700; letter-spacing: 2px; color: var(--accent); margin-bottom: 18px; } {text-align: justify;}
+.eyebrow { font-size: 11px; font-weight: 700; letter-spacing: 2px; color: var(--accent); margin-bottom: 18px; } 
+.eyebrow1 {text-align: justify;}
 h1, h2 { font-family: "Manrope", sans-serif; letter-spacing: -2px; line-height: 1.08; }
 h1 { font-size: clamp(48px, 7vw, 88px); max-width: 850px; }
 h1 span { color: var(--accent); }
